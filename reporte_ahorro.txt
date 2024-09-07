@@ -1,0 +1,19 @@
+--- Reporte del Ahorro (07/09/2024) ---
+Ingresos: $500000000.00
+Gastos:
+  - Gastos 1: $6665.00
+  - Gastos 2: $656565.00
+  - Gastos 3: $656565.00
+  - Gastos 4: $656565.00
+  - Gastos 5: $656565.00
+  - Gastos 6: $65656.00
+-----------------------------------------
+Total de Gastos: $2698581.00
+Ahorro: $497301419.00
+Objetivo de Ahorro: $68665656565.00
+Estado del Objetivo: Objetivo no alcanzado. Faltan: $68168355146.00
+-----------------------------------------
+Recomendaciones: Tienes que revisar tus gastos y reconsiderar
+algunos si quieres alcanzar tu objetivo te recomendamos analizar gastos
+innecesarios o calsificarlos por orden de prioridad
+-----------------------------------------
